@@ -1,0 +1,13 @@
+# Python (Django) ignores
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+.env
+
+# Node.js (React) ignores
+node_modules/
+build/
+.env
